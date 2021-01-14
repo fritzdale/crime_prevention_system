@@ -1,0 +1,1 @@
+web: gunicorn crimemanagement.wsgi --log-file-
